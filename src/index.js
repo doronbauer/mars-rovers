@@ -9,6 +9,7 @@ try {
   const data = fs.readFileSync("./src/input.txt", "utf-8");
 
   const lines = data.split(/\r?\n/);
+  git;
 
   const upperRightPointFormat = /^\d+ \d+$/;
 
